@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CDSBeef
+- 👀 I’m interested in DevOps and Python
+- 🌱 I’m currently learning DevOps and Development
+- 💞️ I’m looking to collaborate on Development, Infrastructure and DevOps
